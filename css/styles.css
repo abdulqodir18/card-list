@@ -115,7 +115,6 @@ img {
   display: flex;
   align-items: center;
 }
-
 .wrapper-label:hover{
   background-color: #e9e3e39a;
 }
